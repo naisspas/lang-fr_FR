@@ -128,3 +128,11 @@ Was this container created using this plugin=Est-ce que ce conteneur a été cr�
 Web=Web
 WebUI=Interface Web
 Writable=Accessible en écriture
+
+; New entries - 2021-03-14
+Drivers=Pilotes
+Reset sorting=Réinitialiser le tri
+Start Container After Install=Démarrer Container Après Installation
+
+; New entries - 2021-03-14
+Total size=Taille totale

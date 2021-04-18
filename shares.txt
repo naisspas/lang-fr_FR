@@ -51,7 +51,7 @@ Share Settings=Réglages partage
 Share status=Statut partage
 Size=Taille
 Some or all files unencrypted=Certains ou tous les fichiers sont non-cryptés
-Some or all files unprotected=Certains ou tous les fichiers sont cryptés
+Some or all files unprotected=Certains ou tous les fichiers ne sont pas protégés
 Split level=Niveau de division
 SSD=SSD
 There are no exportable disk shares=Il n'y a aucun partage de disque exportable
@@ -63,3 +63,7 @@ User Shares=Dossiers Partagés
 Volume dbpath=Volume dbpath
 Write=Écriture
 You cannot use the following within share names=Vous ne pouvez pas utiliser ce qui suit dans un nom de dossier partagé
+
+
+; New entries - 2021-03-14
+Array must be Started to view Shares=Array doit être **Démarré** pour voir les Partages
